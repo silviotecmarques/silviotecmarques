@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Silvio+Marques;I'm+27+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9FF&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8BHELLO%2C+My+name+is+Silvio+Marques;I'm+27+years+old;I'm+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Be+Welcome!+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=silviotecmarques&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -16,19 +16,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviotec.marques@gmail.com)
  
  ### Main skills:
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img aling="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,git)](https://skills.thijs.gg)
 
 ### Studying in this moment:
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img aling="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,git)](https://skills.thijs.gg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
