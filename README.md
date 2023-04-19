@@ -1,27 +1,17 @@
-<h1>  Hi
-  👋 </h1>
+### Olá! Eu sou o Silvio Marques 👋 
 
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviotecmarques/)
 
 <div align="center">
-  <a href="https://github.com/silviotecmarques">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silviotecmarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviotecmarques&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silviotecmarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviotecmarques&layout=compact&langs_count=7&theme=radical"/
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Silvio-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Silvio-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Silvio-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
-  <img align="right" alt="Silvio-dog" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/3o6ggbCzAotIx43ey4/giphy.gif?cid=ecf05e4781hybi67seiqv69vbw4kg01ba302zfz9k52j142e&rid=giphy.gif&ct=g">   
-  </div>
-  
-  ##
-  
-  <div> 
-  <a href = "mailto:silviotec.marques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silviotecmarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
-  
 
+## Skills
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img aling="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
