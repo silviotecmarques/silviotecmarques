@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Silvio Marques 👋 
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviotecmarques/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviotec.marquees@gmail.com)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silviotecmarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
